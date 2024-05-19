@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&theme=holi&layout=compact" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usefmahmud&layout=compact&card_width=320&theme=holi" height="150" alt="languages graph"  />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usefmahmud&theme=holi&layout=compact" height="150" alt="wakatime"  />
-</div>
+</div> -->
 <img src="https://komarev.com/ghpvc/?username=usefmahmud&style=flat-square&color=blue&abbreviated=true"/>
