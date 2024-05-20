@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<!--<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
@@ -53,15 +53,19 @@
   <a href="https://medium.com/@usefmahmud" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-</div>
+</div>-->
 
+
+Email: [usef.mahmoud@outlook.com](mailto:usef.mahmoud@outlook.com)
+
+Find me on: [LinkedIn](https://www.linkedin.com/in/usefmahmud), [Codeforces](https://codeforces.com/profile/usefmahmud), [LeetCode](https://leetcode.com/u/usefmahmud/)
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&theme=holi&layout=compact" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usefmahmud&layout=compact&card_width=320&theme=holi" height="150" alt="languages graph"  />
 </div>
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usefmahmud&theme=holi&layout=compact" height="150" alt="wakatime"  />
 </div> -->
 <img src="https://komarev.com/ghpvc/?username=usefmahmud&style=flat-square&color=blue&abbreviated=true"/>
