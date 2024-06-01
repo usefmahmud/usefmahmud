@@ -61,10 +61,11 @@ Email: [usef.mahmoud@outlook.com](mailto:usef.mahmoud@outlook.com)
 Find me on: [LinkedIn](https://www.linkedin.com/in/usefmahmud), [Codeforces](https://codeforces.com/profile/usefmahmud), [LeetCode](https://leetcode.com/u/usefmahmud/)
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&theme=holi&layout=compact" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usefmahmud&layout=compact&card_width=320&theme=holi" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usefmahmud&layout=compact&card_width=320&theme=holi" height="150" alt="languages graph"  />-->
 </div>
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usefmahmud&theme=holi&layout=compact" height="150" alt="wakatime"  />
 </div> -->
