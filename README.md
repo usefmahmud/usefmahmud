@@ -62,8 +62,8 @@ Find me on: [LinkedIn](https://www.linkedin.com/in/usefmahmud), [Codeforces](htt
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&theme=holi&layout=compact" height="150" alt="stats graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usefmahmud&layout=compact&card_width=320&theme=holi" height="150" alt="languages graph"  />-->
+  <img src="https://leetcard.jacoblin.cool/usefmahmud?ext=heatmap" alt="languages graph"  /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&theme=holi&layout=compact" alt="stats graph"  />
 </div>
 <!-- 
 <div align="center">
