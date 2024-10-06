@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">A curious driven Mathematics student with software development expertise and a strong interest in data science, machine learning, and research. Versatile professional with skills in graphic design, content creation, and marketing. Known for analytical thinking, problem-solving, and computational proficiency. Seeking opportunities to apply a dynamic skill set in impactful data science projects.</p>
+<p align="left">As a sophomore double majoring in Computer Science and Mathematics, I thrive at the intersection of theoretical knowledge and practical application. My passion lies in solving problems, whether they're mathematical puzzles or coding challenges. With a foundation in both fields, I'm eager to leverage my skills in innovative projects and research in different aspects.
+<br> <br>
+Let's connect and explore the limitless possibilities at the crossroads of computation and mathematics!</p>
 
 ###
 
