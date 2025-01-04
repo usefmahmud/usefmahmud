@@ -6,7 +6,7 @@
 ### Currently Reading and Studying:
 - [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq) by Andy Pavlo.
 - [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner.
-- Exploring svelte from their [official docs](https://svelte.dev/docs/svelte).
+- Exploring svelte from its [official docs](https://svelte.dev/docs/svelte).
 
 ### Connect with me:
 
