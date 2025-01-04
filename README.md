@@ -1,74 +1,47 @@
-<h1 align="left">Hi, I'm Yousef Mahmoud</h1>
 
-###
+**Hi, I'm Yousef Mahmoud**. 
+**curious-driven CS & Math student, passionate about how systems work.**
 
-<p align="left">As a sophomore double majoring in Computer Science and Mathematics, I thrive at the intersection of theoretical knowledge and practical application. My passion lies in solving problems, whether they're mathematical puzzles or coding challenges. With a foundation in both fields, I'm eager to leverage my skills in innovative projects and research in different aspects.
-<br> <br>
-Let's connect and explore the limitless possibilities at the crossroads of computation and mathematics!</p>
+- 📫 How to reach me **usef.mahmoud@outlook.com**
 
-###
+### Currently Reading and Studying:
+- [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq) by Andy Pavlo.
+- [Learning Go](https://www.oreilly.com/library/view/learning-go/9781492077206/) by Jon Bodner.
+- Exploring svelte from their [official docs](https://svelte.dev/docs/svelte).
 
-<!--<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeindesign/E749A0" height="30" alt="adobeindesign logo"  />
-</div>
+### Connect with me:
 
-###
+<p align="left">
+  <a href="https://linkedin.com/in/usefmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usefmahmud" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/usefmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="usefmahmud" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/usefmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usefmahmud" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/usefmahmud/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="be.net/usefmahmud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-  <a href="mailto:usef.mahmoud@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://medium.com/@usefmahmud" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>-->
+### Languages and Tools:
 
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 
-Email: [usef.mahmoud@outlook.com](mailto:usef.mahmoud@outlook.com)
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-Find me on: [LinkedIn](https://www.linkedin.com/in/usefmahmud), [Codeforces](https://codeforces.com/profile/usefmahmud), [LeetCode](https://leetcode.com/u/usefmahmud/)
-###
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
+  
+</p>
 
-<div align="center">
-<!--   <img src="https://leetcard.jacoblin.cool/usefmahmud?ext=heatmap" alt="languages graph"  /> <br/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&theme=holi&layout=compact" alt="stats graph"  />
-</div>
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usefmahmud&theme=holi&layout=compact" height="150" alt="wakatime"  />
-</div> -->
-<img src="https://komarev.com/ghpvc/?username=usefmahmud&style=flat-square&color=blue&abbreviated=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&show_icons=true&locale=en&theme=holi" alt="usefmahmud" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usefmahmud&theme=holi-theme" alt="usefmahmud" />
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=usefmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="usefmahmud" /> </p>
