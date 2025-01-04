@@ -1,6 +1,5 @@
 
-**Hi, I'm Yousef Mahmoud**. 
-**curious-driven CS & Math student, passionate about how systems work.**
+**Hi, I'm Yousef Mahmoud**. <br>curious-driven CS & Math student, passionate about how systems work.
 
 - 📫 How to reach me **usef.mahmoud@outlook.com**
 
