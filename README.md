@@ -7,7 +7,7 @@
 ### Currently Reading and Studying:
 - Learning about **.Net Core**.
 - [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq) by Andy Pavlo.
-- Exploring svelte from its [official docs](https://svelte.dev/docs/svelte).
+- Exploring go with svelte from its [official docs](https://svelte.dev/docs/svelte).
 
 ### Connect with me:
 
