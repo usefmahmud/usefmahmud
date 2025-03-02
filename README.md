@@ -2,12 +2,6 @@
 **Hi, I'm Yousef Mahmoud**. <br>curious-driven CS & Math student, passionate about how systems work.
 
 - 📫 How to reach me **usef.mahmoud@outlook.com**
-- 🔭 I’m currently working on [Expenses Tracker](https://github.com/usefmahmud/expenses-tracker) and [LocalStorage Versioning](https://github.com/usefmahmud/localstorage-versioning)
-
-### Currently Reading and Studying:
-- Learning about **.Net Core**.
-- [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq) by Andy Pavlo.
-- Exploring go with svelte from its [official docs](https://svelte.dev/docs/svelte).
 
 ### Connect with me:
 
