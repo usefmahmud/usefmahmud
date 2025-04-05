@@ -1,5 +1,8 @@
 
-**Hi, I'm Yousef Mahmoud**. <br>curious-driven CS & Math student, passionate about how systems work.
+**Hi, I'm Yousef Mahmoud**. <br>
+A passionate Frontend Engineer with a strong foundation in JavaScript, Typescript, and modern web technologies with React and NextJs. <br>
+Skilled in building responsive, efficient, and user-friendly interfaces. <br>
+Enjoys solving problems, learning new technologies, and applying them to create innovative and seamless user experiences.<br>
 
 - 📫 How to reach me **usef.mahmoud@outlook.com**
 
@@ -11,7 +14,7 @@
   <a href="https://www.leetcode.com/usefmahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usefmahmud" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+<!--### Languages and Tools:
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -31,7 +34,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
   
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usefmahmud&show_icons=true&locale=en&theme=holi" alt="usefmahmud" />
