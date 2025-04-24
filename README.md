@@ -1,6 +1,6 @@
 
 **Hi, I'm Yousef Mahmoud**. <br>
-A passionate Frontend Engineer with a strong foundation in JavaScript, Typescript, and modern web technologies with React and NextJs. <br>
+A Frontend Engineer with a strong foundation in JavaScript, Typescript, and modern web technologies with React. <br>
 Skilled in building responsive, efficient, and user-friendly interfaces. <br>
 Enjoys solving problems, learning new technologies, and applying them to create innovative and seamless user experiences.<br>
 
