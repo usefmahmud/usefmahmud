@@ -1,0 +1,17 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: josephburney/update-github-streak@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          file-path: README.md
+          start-line: 4         
+          end-line: 4
