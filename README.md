@@ -5,4 +5,4 @@ Frontend Engineer
 
 💼  [LinkedIn](https://linkedin.com/in/usefmahmud) · 🖥️  [Codeforces](https://codeforces.com/profile/usefmahmud) · 📈  [LeetCode](https://leetcode.com/usefmahmud)
 
-🔥  GitHub Streak: **XX days**
+<!-- 🔥  GitHub Streak: **XX days** -->
