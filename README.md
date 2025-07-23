@@ -1,5 +1,6 @@
 **Yousef Mahmoud**
-Frontend Engineer
+
+Frontend Developer
 
 📫  [usef.mahmoud@outlook.com](mailto:usef.mahmoud@outlook.com)
 
