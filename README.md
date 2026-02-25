@@ -3,7 +3,13 @@
 
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will appear here automatically once the GitHub Action is set up -->
+
+```txt
+From: 24 February 2025 - To: 24 February 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
