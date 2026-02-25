@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**usefmahmud/usefmahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yousef M. Abdulaziz
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will appear here automatically once the GitHub Action is set up -->
+<!--END_SECTION:waka-->
+
+
+<br> <br>
+<div align="center" style="font-size: 8px;">
+
+[usefmahmud@duck.com](mailto:usefmahmud@duck.com) -
+[Linkedin](https://linkedin.com/in/usefmahmud) -
+[Codeforces](https://codeforces.com/profile/usefmahmud) -
+[LeetCode](https://leetcode.com/usefmahmud)  
+
+</div>
