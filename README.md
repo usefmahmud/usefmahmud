@@ -13,7 +13,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-<br> <br>
 <div align="center" style="font-size: 8px;">
 
 [usefmahmud@duck.com](mailto:usefmahmud@duck.com) -
