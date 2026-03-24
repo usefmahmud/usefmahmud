@@ -31,23 +31,23 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 50 mins       █████████████████████░░░░   83.06 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TypeScript               4 hrs 21 mins       █████████████████████░░░░   83.05 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fikra                    4 hrs 8 mins        ███████████████░░░░░░░░░░   58.78 % 
-kraken-lms               2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
-my-portfolio-game-testing10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-first-pixi-game          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+fikra                    4 hrs 8 mins        ████████████████████░░░░░   78.77 % 
+kraken-lms               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+my-portfolio-game-testing10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+first-pixi-game          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Linux                    7 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
