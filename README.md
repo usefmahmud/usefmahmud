@@ -31,24 +31,24 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 50 mins       █████████████████░░░░░░░░   69.56 % 
-C++                      1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript               6 hrs 56 mins       ███████████████░░░░░░░░░░   60.50 % 
+C++                      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fikra                    4 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.26 % 
-kraken-lms               2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-hamza-cpp                1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-my-portfolio-game-testing10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-first-pixi-game          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+kraken-lms               4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.16 % 
+fikra                    4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.04 % 
+hamza-cpp                1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+neoSaris                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+ICPC-Resolver            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Linux                    8 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
