@@ -7,21 +7,21 @@
 
 > 📦 202.3 kB Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2026
+> 🏆 468 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 59 Public Repositories 
  > 
 > 🔑 35 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51843 commits       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-🌆 Daytime                152411 commits      ██████████████░░░░░░░░░░░   54.55 % 
-🌃 Evening                62124 commits       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌙 Night                  12995 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+🌞 Morning                34977 commits       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌆 Daytime                99870 commits       ██████████████░░░░░░░░░░░   54.24 % 
+🌃 Evening                40035 commits       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌙 Night                  9240 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 ```
 
 
@@ -31,24 +31,24 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 52 mins       ████████████████░░░░░░░░░   63.95 % 
-C++                      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TypeScript               8 hrs 16 mins       ██████████████████░░░░░░░   73.92 % 
+Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kraken-lms               5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.30 % 
-fikra                    3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
-hamza-cpp                1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-neoSaris                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-ICPC-Resolver            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+kraken-lms               8 hrs 29 mins       ███████████████████░░░░░░   75.91 % 
+web-mid                  1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+neoSaris                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+ICPC-Resolver            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+lab-test                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Linux                    12 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
