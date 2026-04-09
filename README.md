@@ -9,23 +9,23 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 28 mins       ███████████████████████░░   93.05 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               12 hrs 36 mins      ████████████████████████░   94.86 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  13 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kraken-lms               8 hrs 1 min         ██████████████████████░░░   88.17 % 
-portfolio                51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-something else           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+kraken-lms               12 hrs 13 mins      ███████████████████████░░   91.90 % 
+portfolio                51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+something else           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      9 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
