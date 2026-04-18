@@ -9,24 +9,24 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               11 hrs 51 mins      ██████████████████████░░░   87.78 % 
-Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+TypeScript               12 hrs 6 mins       ██████████████████████░░░   87.66 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 24 mins      █████████████████████████   99.25 % 
-Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+VS Code                  13 hrs 40 mins      █████████████████████████   99.02 % 
+Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-kraken-lms               13 hrs 24 mins      █████████████████████████   99.23 % 
-Soln                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+kraken-lms               13 hrs 42 mins      █████████████████████████   99.25 % 
+Soln                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Downloads                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
