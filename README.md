@@ -2,30 +2,30 @@
 ### Yousef M. Abdulaziz
 
 <!--START_SECTION:waka-->
-**Current Week Analysis** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 53 mins       ██████████████████████░░░   87.06 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TypeScript               12 hrs 19 mins      ███████████████████████░░   90.75 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kraken-lms               10 hrs 57 mins      ████████████████████████░   96.43 % 
-call_6N1tQlLTOPZ4f5uuPCLx14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-testing                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-NSIRD_screencaptureui_j8q3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-T                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+kraken-lms               11 hrs 54 mins      ██████████████████████░░░   87.70 % 
+tanstackform-vs-rhf      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+flux-lang                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+src                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+testing                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Mac                      11 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
