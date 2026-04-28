@@ -1,9 +1,8 @@
 
 ### Yousef M. Abdulaziz
 
-
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+**Current Week Analysis** 
 
 ```text
 🕑︎ Time Zone: Africa/Cairo
