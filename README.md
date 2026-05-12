@@ -8,24 +8,24 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               12 hrs 4 mins       █████████████████░░░░░░░░   68.18 % 
-C++                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Java                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               10 hrs 26 mins      ████████████████░░░░░░░░░   65.26 % 
+C++                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Java                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-green-house-frontend     5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
-tanstackform-vs-rhf      3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-nashwa                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-bookbot                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-cpp-lab                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+green-house-frontend     7 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.96 % 
+nashwa                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+bookbot                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+cpp-lab                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+tanstackform-vs-rhf      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 💻 Operating System: 
-Mac                      17 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
