@@ -8,23 +8,23 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               1 hr 19 mins        █████████████░░░░░░░░░░░░   51.31 % 
-Rust                     36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-TSConfig                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript               3 hrs 12 mins       ███████████████░░░░░░░░░░   61.58 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Rust                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+TSConfig                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-riwaa                    1 hr 58 mins        ███████████████████░░░░░░   76.47 % 
-dbdbdo                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+riwaa                    4 hrs 36 mins       ██████████████████████░░░   88.34 % 
+dbdbdo                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 NSIRD_screencaptureui_j3l0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
