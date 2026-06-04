@@ -8,23 +8,24 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ███████████████░░░░░░░░░░   61.58 % 
-JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Rust                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-TSConfig                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+TypeScript               6 hrs 53 mins       █████████████████░░░░░░░░   66.01 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Rust                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+TSConfig                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-riwaa                    4 hrs 36 mins       ██████████████████████░░░   88.34 % 
-dbdbdo                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-NSIRD_screencaptureui_j3l0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+riwaa                    8 hrs 54 mins       █████████████████████░░░░   85.32 % 
+testing-for-cookies      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+dbdbdo                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+homebrew                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
