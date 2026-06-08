@@ -8,24 +8,23 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 22 mins      ████████████████████░░░░░   80.21 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-TSConfig                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               13 hrs 3 mins       ████████████████████░░░░░   81.85 % 
+JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TSConfig                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-riwaa                    16 hrs 37 mins      ███████████████████████░░   92.72 % 
-testing-for-cookies      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-gentech-ui-library       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+riwaa                    14 hrs 39 mins      ███████████████████████░░   91.83 % 
+testing-for-cookies      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+gentech-ui-library       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-NSIRD_screencaptureui_j3l0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
