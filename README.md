@@ -8,20 +8,20 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 23 mins       ████████████████████████░   96.14 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               8 hrs 9 mins        ████████████████████████░   96.19 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-riwaa                    7 hrs 40 mins       █████████████████████████   100.00 % 
+riwaa                    8 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
