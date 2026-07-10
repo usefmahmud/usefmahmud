@@ -1,6 +1,9 @@
 
 ### Yousef M. Abdulaziz
 
+Product Engineer on his way out of the Software Engineering industry.
+
+<br/>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
