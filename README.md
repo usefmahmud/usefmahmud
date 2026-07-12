@@ -5,7 +5,7 @@ Product Engineer on his way out of the Software Engineering industry.
 
 <br/>
 <!--START_SECTION:waka-->
-<!--📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Cairo
@@ -26,7 +26,7 @@ riwaa                    8 hrs 29 mins       ███████████�
 💻 Operating System: 
 Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
--->
+
 
 <!--END_SECTION:waka-->
 
