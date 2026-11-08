@@ -1,5 +1,5 @@
 
-### Yousef M. Abdulaziz
+### Yousef Abdulaziz
 
 
 Product Engineer on his way out of the Software Engineering industry.<br>
